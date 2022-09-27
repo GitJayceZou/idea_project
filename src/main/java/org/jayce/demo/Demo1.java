@@ -15,6 +15,9 @@ public class Demo1 {
 
         System.out.println("Hello!");
         System.out.println("Hello!");
+        
+        System.out.println("Remote!");
+        System.out.println("Remote!");
 
     }
 }
